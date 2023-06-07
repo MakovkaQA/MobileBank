@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/ote5d9j3l1a8q8v6?svg=true)](https://ci.appveyor.com/project/MakovkaQA/mobilebank)
